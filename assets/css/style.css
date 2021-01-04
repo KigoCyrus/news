@@ -11,7 +11,7 @@
   padding: 1rem;
   align-items: center;
 }
-#main-nav .logo {
+#main-nav a {
   width: 180px;
   justify-self: start;
 }
